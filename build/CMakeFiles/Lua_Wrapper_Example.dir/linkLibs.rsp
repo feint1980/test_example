@@ -1,0 +1,1 @@
+ E:/template/vs_code_cpp_examples/lua_wrapper_example/lib//liblua53.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

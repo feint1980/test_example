@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Lua_Wrapper_Example.dir/objects.a
+C:\SysGCC\mingw32\bin\ar.exe qc CMakeFiles\Lua_Wrapper_Example.dir/objects.a @CMakeFiles\Lua_Wrapper_Example.dir\objects1.rsp
+C:\SysGCC\mingw32\bin\c++.exe -Wl,--whole-archive CMakeFiles\Lua_Wrapper_Example.dir/objects.a -Wl,--no-whole-archive -o Lua_Wrapper_Example.exe -Wl,--out-implib,libLua_Wrapper_Example.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lua_Wrapper_Example.dir\linkLibs.rsp

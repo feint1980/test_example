@@ -1,0 +1,3 @@
+E:/template/vs_code_cpp_examples/lua_wrapper_example/build/CMakeFiles/Lua_Wrapper_Example.dir
+E:/template/vs_code_cpp_examples/lua_wrapper_example/build/CMakeFiles/edit_cache.dir
+E:/template/vs_code_cpp_examples/lua_wrapper_example/build/CMakeFiles/rebuild_cache.dir
